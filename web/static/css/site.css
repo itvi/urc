@@ -1,0 +1,17 @@
+.highlight {
+    background-color: #ffe57f;
+}
+
+.invalidate {
+    color: red;
+}
+
+button#edit {
+    border-color: #ff6d00 !important;
+}
+
+.btn-logout{
+    color: white;
+    background-color: transparent;
+    border: 0;
+}
